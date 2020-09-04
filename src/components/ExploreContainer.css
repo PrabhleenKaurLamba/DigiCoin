@@ -1,0 +1,36 @@
+.login{
+    text-transform: none;
+    height: max(12vh, 120px);
+    font-size: 1.5rem;
+}
+
+.ion-color-one {
+    --ion-color-base: var(--ion-color-one);
+    --ion-color-base-rgb: var(--ion-color-one-rgb);
+    --ion-color-contrast: var(--ion-color-one-contrast);
+    --ion-color-contrast-rgb: var(--ion-color-one-contrast-rgb);
+    --ion-color-shade: var(--ion-color-one-shade);
+    --ion-color-tint: var(--ion-color-one-tint);
+  }
+
+.ion-color-two {
+    --ion-color-base: var(--ion-color-two);
+    --ion-color-base-rgb: var(--ion-color-two-rgb);
+    --ion-color-contrast: var(--ion-color-two-contrast);
+    --ion-color-contrast-rgb: var(--ion-color-two-contrast-rgb);
+    --ion-color-shade: var(--ion-color-two-shade);
+    --ion-color-tint: var(--ion-color-two-tint);
+  }
+
+.logo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+.cm{
+  width: max(10vw, 100px);
+}

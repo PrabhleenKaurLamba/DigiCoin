@@ -1,0 +1,7 @@
+{
+  "name": "CoinApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

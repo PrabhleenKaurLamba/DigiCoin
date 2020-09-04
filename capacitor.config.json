@@ -1,0 +1,13 @@
+{
+  "appId": "com.khalsa.coinapp",
+  "appName": "CoinApp",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
