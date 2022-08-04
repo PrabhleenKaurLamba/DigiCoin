@@ -8,7 +8,7 @@ An application that digitizes America's piggy bank by making the transfer of cha
 
 This project currently runs all within the browser as it is a front end application. A backend database integration is needed to store the merchant and customers' data. The barcode scanner also needs to be implemented using the QuaggaJS library.
 
-# Project Demo
+# Demo
 
 Demo Link: https://www.youtube.com/watch?v=fwN0w07L14U&ab_channel=PrabhleenKaur
 
