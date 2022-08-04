@@ -12,7 +12,7 @@ This project currently runs all within the browser as it is a front end applicat
 
 Demo Link: https://www.youtube.com/watch?v=fwN0w07L14U&ab_channel=PrabhleenKaur
 
-![D5DF5EDB-A02B-485A-85A7-ECD424777D5F](https://user-images.githubusercontent.com/59297291/182769496-84d3eac8-d027-4c34-89b6-902630d20a88.PNG)
-![177336D4-5A52-4092-B755-71FD4D0F4B38](https://user-images.githubusercontent.com/59297291/182769488-a8061bff-7796-4951-9cff-b26c3e0cf49f.PNG)
+![507E8A4A-1F5C-4BA2-984F-B7510A7B1A9A](https://user-images.githubusercontent.com/59297291/182770355-c0cd97e2-b466-4c10-9467-a79af0ac2833.JPG)
+![45299F18-461A-43C2-BADF-F250E9E8B9DE](https://user-images.githubusercontent.com/59297291/182770375-71d19893-75e3-40b9-a31f-bbdcb8af23f6.JPG)
 
 # Reflection
