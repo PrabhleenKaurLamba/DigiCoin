@@ -1,3 +1,3 @@
-# NVK-Pay
+# Digi Coin
 
-Digitizing America's Piggy Bank !!
+Digitizing America's Piggy Bank!
